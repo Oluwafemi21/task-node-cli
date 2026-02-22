@@ -2,7 +2,7 @@
 A CLI app to track your tasks and manage your to-do list. This is a solution to the project [Task CLI](https://roadmap.sh/projects/task-tracker)
 
 ## To make the file executable on your local machine.
-`chmod +x index.js`
+`chmod +x interact.js`
 
 ## Link to your local machine
 `npm link`
