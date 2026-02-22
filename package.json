@@ -1,0 +1,15 @@
+{
+  "name": "task-node-cli",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "A CLI Tool to handle task manager from your terminal",
+  "type": "commonjs",
+  "bin": {
+    "task-cli": "./interact.js"
+  }
+}
